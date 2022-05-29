@@ -69,7 +69,8 @@ const Bubbles = () => {
 
     const hiddenCircle = document.querySelectorAll(".hideCircle");
     const visibleCircle = document.querySelectorAll(".visibleCircle");
-
+    
+    //Rotating the array to shuffle the array of colors and randomizing the colors
     let k = Math.floor((Math.random() * 10) % 7);
 
     for (let i = 0; i < hiddenCircle.length; i++) {
