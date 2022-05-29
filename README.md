@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# A ballon shooter using text box and by on click!
 
+## about
+`A ballon shooter game which can be played by clicking on the ballons to shoot and put it into the div, you can do this by using input text as well. Have Fun !`
+
+## To run the project:
 In the project directory, you can run:
 
 ### `npm start`
